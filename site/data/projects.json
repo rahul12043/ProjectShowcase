@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": "clickfix-shield",
+    "title": "ClickFix Shield",
+    "student": "Rahul Sinha",
+    "department": "Computer Engineering",
+    "batch": "2026",
+    "summary": "Clipboard-based social engineering detection using heuristic analysis.",
+    "tech": [
+      "Python",
+      "SQLite",
+      "Windows API"
+    ],
+    "github": "https://github.com/rahul12043/ClickFixShield",
+    "demo": "",
+    "image": "images/default.webp"
+  }
+]

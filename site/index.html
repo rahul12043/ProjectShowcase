@@ -10,9 +10,67 @@
 
 <body>
 
-<h1>Project Showcase</h1>
+<header class="hero">
 
-<p>If you can read this, GitHub Pages is working 🎉</p>
+    <h1>🎓 Project Showcase</h1>
+
+    <p>
+        Discover student capstone projects from different departments.
+    </p>
+
+</header>
+
+
+<section class="controls">
+
+    <input
+        type="text"
+        id="searchBox"
+        placeholder="Search projects..."
+    >
+
+    <select id="departmentFilter">
+
+        <option value="">All Departments</option>
+
+    </select>
+
+</section>
+
+
+<section class="stats">
+
+    <div class="stat">
+        <h2 id="projectCount">0</h2>
+        <p>Projects</p>
+    </div>
+
+    <div class="stat">
+        <h2 id="studentCount">0</h2>
+        <p>Students</p>
+    </div>
+
+    <div class="stat">
+        <h2 id="departmentCount">0</h2>
+        <p>Departments</p>
+    </div>
+
+</section>
+
+
+<section
+    id="projectGrid"
+    class="grid"
+>
+
+</section>
+
+
+<footer>
+
+    Built with ❤️ using GitHub Pages
+
+</footer>
 
 <script src="js/app.js"></script>
 

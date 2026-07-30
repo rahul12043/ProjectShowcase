@@ -11,7 +11,23 @@
       "SQLite",
       "Windows API"
     ],
-    "github": "https://github.com/rahul12043/ClickFixShield",
+    "github": "https://github.com/rahul12043",
+    "demo": "",
+    "image": "images/default.webp"
+  },
+  {
+    "id": "smart-attendance",
+    "title": "Smart Attendance System",
+    "student": "Amit Sharma",
+    "department": "Computer Engineering",
+    "batch": "2026",
+    "summary": "Face recognition attendance system.",
+    "tech": [
+      "Python",
+      "OpenCV",
+      "Flask"
+    ],
+    "github": "#",
     "demo": "",
     "image": "images/default.webp"
   }
